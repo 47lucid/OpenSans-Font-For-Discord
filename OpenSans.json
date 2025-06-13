@@ -1,0 +1,128 @@
+{
+  "repo": "googlefonts/opensans",
+  "branch": "main",
+  "path": "fonts/ttf",
+  "files": [
+    {
+      "name": "OpenSans-Bold.ttf",
+      "download_url": "https://github.com/googlefonts/opensans/raw/main/fonts/ttf/OpenSans-Bold.ttf",
+      "raw_url": "https://raw.githubusercontent.com/googlefonts/opensans/main/fonts/ttf/OpenSans-Bold.ttf"
+    },
+    {
+      "name": "OpenSans-BoldItalic.ttf",
+      "download_url": "https://github.com/googlefonts/opensans/raw/main/fonts/ttf/OpenSans-BoldItalic.ttf",
+      "raw_url": "https://raw.githubusercontent.com/googlefonts/opensans/main/fonts/ttf/OpenSans-BoldItalic.ttf"
+    },
+    {
+      "name": "OpenSans-ExtraBold.ttf",
+      "download_url": "https://github.com/googlefonts/opensans/raw/main/fonts/ttf/OpenSans-ExtraBold.ttf",
+      "raw_url": "https://raw.githubusercontent.com/googlefonts/opensans/main/fonts/ttf/OpenSans-ExtraBold.ttf"
+    },
+    {
+      "name": "OpenSans-ExtraBoldItalic.ttf",
+      "download_url": "https://github.com/googlefonts/opensans/raw/main/fonts/ttf/OpenSans-ExtraBoldItalic.ttf",
+      "raw_url": "https://raw.githubusercontent.com/googlefonts/opensans/main/fonts/ttf/OpenSans-ExtraBoldItalic.ttf"
+    },
+    {
+      "name": "OpenSans-Italic.ttf",
+      "download_url": "https://github.com/googlefonts/opensans/raw/main/fonts/ttf/OpenSans-Italic.ttf",
+      "raw_url": "https://raw.githubusercontent.com/googlefonts/opensans/main/fonts/ttf/OpenSans-Italic.ttf"
+    },
+    {
+      "name": "OpenSans-Light.ttf",
+      "download_url": "https://github.com/googlefonts/opensans/raw/main/fonts/ttf/OpenSans-Light.ttf",
+      "raw_url": "https://raw.githubusercontent.com/googlefonts/opensans/main/fonts/ttf/OpenSans-Light.ttf"
+    },
+    {
+      "name": "OpenSans-LightItalic.ttf",
+      "download_url": "https://github.com/googlefonts/opensans/raw/main/fonts/ttf/OpenSans-LightItalic.ttf",
+      "raw_url": "https://raw.githubusercontent.com/googlefonts/opensans/main/fonts/ttf/OpenSans-LightItalic.ttf"
+    },
+    {
+      "name": "OpenSans-Medium.ttf",
+      "download_url": "https://github.com/googlefonts/opensans/raw/main/fonts/ttf/OpenSans-Medium.ttf",
+      "raw_url": "https://raw.githubusercontent.com/googlefonts/opensans/main/fonts/ttf/OpenSans-Medium.ttf"
+    },
+    {
+      "name": "OpenSans-MediumItalic.ttf",
+      "download_url": "https://github.com/googlefonts/opensans/raw/main/fonts/ttf/OpenSans-MediumItalic.ttf",
+      "raw_url": "https://raw.githubusercontent.com/googlefonts/opensans/main/fonts/ttf/OpenSans-MediumItalic.ttf"
+    },
+    {
+      "name": "OpenSans-Regular.ttf",
+      "download_url": "https://github.com/googlefonts/opensans/raw/main/fonts/ttf/OpenSans-Regular.ttf",
+      "raw_url": "https://raw.githubusercontent.com/googlefonts/opensans/main/fonts/ttf/OpenSans-Regular.ttf"
+    },
+    {
+      "name": "OpenSans-SemiBold.ttf",
+      "download_url": "https://github.com/googlefonts/opensans/raw/main/fonts/ttf/OpenSans-SemiBold.ttf",
+      "raw_url": "https://raw.githubusercontent.com/googlefonts/opensans/main/fonts/ttf/OpenSans-SemiBold.ttf"
+    },
+    {
+      "name": "OpenSans-SemiBoldItalic.ttf",
+      "download_url": "https://github.com/googlefonts/opensans/raw/main/fonts/ttf/OpenSans-SemiBoldItalic.ttf",
+      "raw_url": "https://raw.githubusercontent.com/googlefonts/opensans/main/fonts/ttf/OpenSans-SemiBoldItalic.ttf"
+    },
+    {
+      "name": "OpenSans_Condensed-Bold.ttf",
+      "download_url": "https://github.com/googlefonts/opensans/raw/main/fonts/ttf/OpenSans_Condensed-Bold.ttf",
+      "raw_url": "https://raw.githubusercontent.com/googlefonts/opensans/main/fonts/ttf/OpenSans_Condensed-Bold.ttf"
+    },
+    {
+      "name": "OpenSans_Condensed-BoldItalic.ttf",
+      "download_url": "https://github.com/googlefonts/opensans/raw/main/fonts/ttf/OpenSans_Condensed-BoldItalic.ttf",
+      "raw_url": "https://raw.githubusercontent.com/googlefonts/opensans/main/fonts/ttf/OpenSans_Condensed-BoldItalic.ttf"
+    },
+    {
+      "name": "OpenSans_Condensed-ExtraBold.ttf",
+      "download_url": "https://github.com/googlefonts/opensans/raw/main/fonts/ttf/OpenSans_Condensed-ExtraBold.ttf",
+      "raw_url": "https://raw.githubusercontent.com/googlefonts/opensans/main/fonts/ttf/OpenSans_Condensed-ExtraBold.ttf"
+    },
+    {
+      "name": "OpenSans_Condensed-ExtraBoldItalic.ttf",
+      "download_url": "https://github.com/googlefonts/opensans/raw/main/fonts/ttf/OpenSans_Condensed-ExtraBoldItalic.ttf",
+      "raw_url": "https://raw.githubusercontent.com/googlefonts/opensans/main/fonts/ttf/OpenSans_Condensed-ExtraBoldItalic.ttf"
+    },
+    {
+      "name": "OpenSans_Condensed-Italic.ttf",
+      "download_url": "https://github.com/googlefonts/opensans/raw/main/fonts/ttf/OpenSans_Condensed-Italic.ttf",
+      "raw_url": "https://raw.githubusercontent.com/googlefonts/opensans/main/fonts/ttf/OpenSans_Condensed-Italic.ttf"
+    },
+    {
+      "name": "OpenSans_Condensed-Light.ttf",
+      "download_url": "https://github.com/googlefonts/opensans/raw/main/fonts/ttf/OpenSans_Condensed-Light.ttf",
+      "raw_url": "https://raw.githubusercontent.com/googlefonts/opensans/main/fonts/ttf/OpenSans_Condensed-Light.ttf"
+    },
+    {
+      "name": "OpenSans_Condensed-LightItalic.ttf",
+      "download_url": "https://github.com/googlefonts/opensans/raw/main/fonts/ttf/OpenSans_Condensed-LightItalic.ttf",
+      "raw_url": "https://raw.githubusercontent.com/googlefonts/opensans/main/fonts/ttf/OpenSans_Condensed-LightItalic.ttf"
+    },
+    {
+      "name": "OpenSans_Condensed-Medium.ttf",
+      "download_url": "https://github.com/googlefonts/opensans/raw/main/fonts/ttf/OpenSans_Condensed-Medium.ttf",
+      "raw_url": "https://raw.githubusercontent.com/googlefonts/opensans/main/fonts/ttf/OpenSans_Condensed-Medium.ttf"
+    },
+    {
+      "name": "OpenSans_Condensed-MediumItalic.ttf",
+      "download_url": "https://github.com/googlefonts/opensans/raw/main/fonts/ttf/OpenSans_Condensed-MediumItalic.ttf",
+      "raw_url": "https://raw.githubusercontent.com/googlefonts/opensans/main/fonts/ttf/OpenSans_Condensed-MediumItalic.ttf"
+    },
+    {
+      "name": "OpenSans_Condensed-Regular.ttf",
+      "download_url": "https://github.com/googlefonts/opensans/raw/main/fonts/ttf/OpenSans_Condensed-Regular.ttf",
+      "raw_url": "https://raw.githubusercontent.com/googlefonts/opensans/main/fonts/ttf/OpenSans_Condensed-Regular.ttf"
+    },
+    {
+      "name": "OpenSans_Condensed-SemiBold.ttf",
+      "download_url": "https://github.com/googlefonts/opensans/raw/main/fonts/ttf/OpenSans_Condensed-SemiBold.ttf",
+      "raw_url": "https://raw.githubusercontent.com/googlefonts/opensans/main/fonts/ttf/OpenSans_Condensed-SemiBold.ttf"
+    },
+    {
+      "name": "OpenSans_Condensed-SemiBoldItalic.ttf",
+      "download_url": "https://github.com/googlefonts/opensans/raw/main/fonts/ttf/OpenSans_Condensed-SemiBoldItalic.ttf",
+      "raw_url": "https://raw.githubusercontent.com/googlefonts/opensans/main/fonts/ttf/OpenSans_Condensed-SemiBoldItalic.ttf"
+    }
+  ],
+  "last_updated": "2023-11-01T00:00:00.000Z"
+}
