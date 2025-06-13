@@ -1,0 +1,25 @@
+{
+  "name": "Open Sans",
+  "main": {
+    "100": "https://raw.githubusercontent.com/googlefonts/opensans/main/fonts/ttf/OpenSans-Light.ttf",
+    "200": "https://raw.githubusercontent.com/googlefonts/opensans/main/fonts/ttf/OpenSans-Light.ttf",
+    "300": "https://raw.githubusercontent.com/googlefonts/opensans/main/fonts/ttf/OpenSans-Light.ttf",
+    "400": "https://raw.githubusercontent.com/googlefonts/opensans/main/fonts/ttf/OpenSans-Regular.ttf",
+    "500": "https://raw.githubusercontent.com/googlefonts/opensans/main/fonts/ttf/OpenSans-Medium.ttf",
+    "600": "https://raw.githubusercontent.com/googlefonts/opensans/main/fonts/ttf/OpenSans-SemiBold.ttf",
+    "700": "https://raw.githubusercontent.com/googlefonts/opensans/main/fonts/ttf/OpenSans-Bold.ttf",
+    "800": "https://raw.githubusercontent.com/googlefonts/opensans/main/fonts/ttf/OpenSans-ExtraBold.ttf",
+    "900": "https://raw.githubusercontent.com/googlefonts/opensans/main/fonts/ttf/OpenSans-ExtraBold.ttf"
+  },
+  "italic": {
+    "100": "https://raw.githubusercontent.com/googlefonts/opensans/main/fonts/ttf/OpenSans-LightItalic.ttf",
+    "200": "https://raw.githubusercontent.com/googlefonts/opensans/main/fonts/ttf/OpenSans-LightItalic.ttf",
+    "300": "https://raw.githubusercontent.com/googlefonts/opensans/main/fonts/ttf/OpenSans-LightItalic.ttf",
+    "400": "https://raw.githubusercontent.com/googlefonts/opensans/main/fonts/ttf/OpenSans-Italic.ttf",
+    "500": "https://raw.githubusercontent.com/googlefonts/opensans/main/fonts/ttf/OpenSans-MediumItalic.ttf",
+    "600": "https://raw.githubusercontent.com/googlefonts/opensans/main/fonts/ttf/OpenSans-SemiBoldItalic.ttf",
+    "700": "https://raw.githubusercontent.com/googlefonts/opensans/main/fonts/ttf/OpenSans-BoldItalic.ttf",
+    "800": "https://raw.githubusercontent.com/googlefonts/opensans/main/fonts/ttf/OpenSans-ExtraBoldItalic.ttf",
+    "900": "https://raw.githubusercontent.com/googlefonts/opensans/main/fonts/ttf/OpenSans-ExtraBoldItalic.ttf"
+  }
+}
